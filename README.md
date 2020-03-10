@@ -10,14 +10,8 @@ We will use __Pandas__ and the __Statsmodels__ library wich are powerful Python 
 
 The project cover following topics:
 
-- Binary classification
-- Multiclass classification
-- Regression
-- Auto-Encoder
-- Denoizing Auto-Encoder
-- RNN (LSTM)
-- CNN
-- GAN
+- Time Series Features analysis
+
 
 Each topic will refers to Notebook example. The example assume that reader are familiar with statics concepts and Python.
 
